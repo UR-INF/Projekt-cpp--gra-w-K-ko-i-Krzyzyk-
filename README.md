@@ -1,1 +1,1 @@
-# Projekt-cpp--gra-w-K-ko-i-Krzyzyk-
+# Projekt-cpp--gra-w-Kolko-i-Krzyzyk-
